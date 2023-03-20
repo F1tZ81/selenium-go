@@ -18,7 +18,7 @@ func Addr(userName, accessKey string) string {
 // https://wiki.saucelabs.com/display/DOCS/Test+Configuration+Options
 type Capabilities struct {
 	// The name of the browser test against.
-	Browser string `json:"browser,omitempty"`
+	Browser string `json:"browserName,omitempty"`
 	// The version of the browser you want to use in your test.
 	Version string `json:"version,omitempty"`
 	// Which operating system the browser should be running on.
