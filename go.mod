@@ -1,4 +1,4 @@
-module github.com/rmescandon/selenium
+module github.com/F1tZ81/selenium-go
 
 go 1.12
 

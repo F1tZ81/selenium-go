@@ -14,8 +14,8 @@ import (
 
 	"github.com/blang/semver"
 	"github.com/golang/glog"
-	"github.com/rmescandon/selenium"
-	"github.com/rmescandon/selenium/internal/seleniumtest"
+	"github.com/F1tZ81/selenium-go"
+	"github.com/F1tZ81/selenium-go/internal/seleniumtest"
 )
 
 var (
